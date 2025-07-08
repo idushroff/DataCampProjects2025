@@ -39,6 +39,10 @@ Project 2: Predict Customer Purchasing Behaviour (Not Started)
 Project 3: Finding Exchange Rates for International Sales (Not Started)
 - Using the VAT Comply API to fetch exchange rates for USD, convert non-USD transactions to USD, and calculate total sales for a given date (January 21st, 2024).
 
+Project 4: Product Management - Market Analysis (Not Started)
+- Do a market analysis to understand how to place digital fitness products in Singapore.
+
+Project 5: 
 ---
 
 ## 📂 Pycharm Project Structure
