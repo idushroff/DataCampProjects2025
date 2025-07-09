@@ -36,7 +36,7 @@ Project 1: Retail Inventory Management System (Completed)
 Project 2: Predict Customer Purchasing Behaviour (Not Started)
 - Analyzing online shopping data to calculate purchase rates and correlations, and determine the probability of achieving sales from returning customers.
 
-Project 3: Finding Exchange Rates for International Sales (Not Started)
+Project 3: Finding Exchange Rates for International Sales (Completed)
 - Using the VAT Comply API to fetch exchange rates for USD, convert non-USD transactions to USD, and calculate total sales for a given date (January 21st, 2024).
 
 Project 4: Product Management - Market Analysis (Not Started)
