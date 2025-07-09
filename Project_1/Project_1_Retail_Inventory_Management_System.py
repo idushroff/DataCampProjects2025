@@ -223,13 +223,7 @@ https://campus.datacamp.com/courses/introduction-to-object-oriented-programming-
 Class methods
 https://campus.datacamp.com/courses/introduction-to-object-oriented-programming-in-python/inheritance-and-polymorphism-2?ex=5
 
-
-
 """
 
 
 
-'''
-https://www.kaggle.com/code/abdelazizsami/project-finding-exchange-rates-for-international-s
-https://www.kaggle.com/datasets/abdelazizsami/finding-exchange-rates-for-international-sales/data
-'''
